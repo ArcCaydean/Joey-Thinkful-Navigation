@@ -1,3 +1,3 @@
-# starter-joey-thinkful
+Joey Thinkful Navigation Assessment
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+Webpage uses responsive navigation and multi-page navigation. It's styled using Flexbox and media-queries via CSS.
